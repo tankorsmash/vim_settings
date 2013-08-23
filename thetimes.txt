@@ -1,0 +1,118 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.011  000.011: --- VIM STARTING ---
+000.122  000.111: Allocated generic buffers
+000.188  000.066: locale set
+000.207  000.019: GUI prepared
+000.211  000.004: clipboard setup
+000.219  000.008: window checked
+000.737  000.518: inits 1
+000.744  000.007: parsing arguments
+038.718  037.974: expanding arguments
+038.752  000.034: shell init
+039.301  000.549: xsmp init
+039.684  000.383: Termcap init
+039.734  000.050: inits 2
+039.873  000.139: init highlight
+040.391  000.356  000.356: sourcing /usr/share/vim/vim73/debian.vim
+040.858  000.270  000.270: sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+040.983  000.460  000.190: sourcing /usr/share/vim/vim73/syntax/synload.vim
+061.241  000.064  000.064: sourcing /usr/share/vim/vim73/autoload/paste.vim
+094.853  034.688  034.624: sourcing /usr/share/vim/vim73/menu.vim
+094.910  053.871  019.183: sourcing /usr/share/vim/vim73/filetype.vim
+094.964  054.508  000.177: sourcing /usr/share/vim/vim73/syntax/syntax.vim
+095.002  055.047  000.183: sourcing $VIM/vimrc
+095.723  000.623  000.623: sourcing /usr/share/vim/vim73/ftoff.vim
+112.338  016.307  016.307: sourcing /usr/share/vim/vim73/filetype.vim
+112.464  000.048  000.048: sourcing /usr/share/vim/vim73/ftplugin.vim
+112.530  000.012  000.012: sourcing /usr/share/vim/vim73/filetype.vim
+112.619  000.040  000.040: sourcing /usr/share/vim/vim73/indent.vim
+113.120  000.232  000.232: sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+113.538  000.221  000.221: sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+113.888  000.214  000.214: sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+115.043  002.313  001.646: sourcing /home/joshb/.vim/colors/vividchalk.vim
+115.515  000.424  000.424: sourcing /home/joshb/.vim/autoload/pathogen.vim
+117.977  000.548  000.548: sourcing /usr/share/vim/vim73/ftoff.vim
+134.667  016.466  016.466: sourcing /usr/share/vim/vim73/filetype.vim
+148.283  053.228  016.447: sourcing $HOME/.vimrc
+148.314  000.166: sourcing vimrc file(s)
+149.928  001.508  001.508: sourcing /home/joshb/.vim/plugin/mru.vim
+150.595  000.521  000.521: sourcing /home/joshb/.vim/bundle/L9/autoload/l9.vim
+153.475  001.628  001.628: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf.vim
+153.808  000.249  000.249: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/buffer.vim
+154.239  000.208  000.208: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/file.vim
+154.732  000.264  000.264: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/coveragefile.vim
+155.094  000.192  000.192: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/dir.vim
+155.599  000.261  000.261: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/bookmarkfile.vim
+155.976  000.223  000.223: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/bookmarkdir.vim
+156.354  000.234  000.234: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/tag.vim
+156.882  000.346  000.346: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/buffertag.vim
+158.191  000.219  000.219: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/taggedfile.vim
+158.594  000.263  000.263: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/jumplist.vim
+158.970  000.241  000.241: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/changelist.vim
+159.336  000.235  000.235: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/quickfix.vim
+159.691  000.219  000.219: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/line.vim
+160.086  000.258  000.258: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/help.vim
+160.471  000.205  000.205: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/givenfile.vim
+160.767  000.209  000.209: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/givendir.vim
+161.048  000.195  000.195: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/givencmd.vim
+161.392  000.257  000.257: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/callbackfile.vim
+161.705  000.223  000.223: sourcing /home/joshb/.vim/bundle/FuzzyFinder/autoload/fuf/callbackitem.vim
+161.787  011.761  005.111: sourcing /home/joshb/.vim/bundle/FuzzyFinder/plugin/fuf.vim
+162.090  000.217  000.217: sourcing /home/joshb/.vim/bundle/L9/plugin/l9.vim
+164.673  001.746  001.746: sourcing /home/joshb/.vim/bundle/nerdtree/autoload/nerdtree.vim
+167.049  001.352  001.352: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/path.vim
+167.487  000.381  000.381: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/menu_controller.vim
+167.811  000.272  000.272: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/menu_item.vim
+168.153  000.290  000.290: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/key_map.vim
+168.985  000.781  000.781: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/bookmark.vim
+169.705  000.667  000.667: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/tree_file_node.vim
+170.213  000.450  000.450: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/tree_dir_node.vim
+170.471  000.206  000.206: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/opener.vim
+170.789  000.266  000.266: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/creator.vim
+184.458  000.135  000.135: sourcing /home/joshb/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+185.025  000.531  000.531: sourcing /home/joshb/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+185.156  022.857  015.780: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+185.483  000.295  000.295: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/bookmark.vim
+185.794  000.283  000.283: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/creator.vim
+185.948  000.125  000.125: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/key_map.vim
+186.140  000.162  000.162: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/menu_controller.vim
+186.268  000.101  000.101: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/menu_item.vim
+186.527  000.229  000.229: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/opener.vim
+187.147  000.592  000.592: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/path.vim
+187.656  000.482  000.482: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/tree_dir_node.vim
+188.079  000.394  000.394: sourcing /home/joshb/.vim/bundle/nerdtree/plugin/nerdtree/tree_file_node.vim
+188.891  000.730  000.730: sourcing /home/joshb/.vim/bundle/taglist.vim/plugin/taglist.vim
+190.505  001.539  001.539: sourcing /home/joshb/.vim/bundle/tcomment_vim/plugin/tcomment.vim
+190.832  000.105  000.105: sourcing /usr/share/vim/vim73/plugin/getscriptPlugin.vim
+191.232  000.372  000.372: sourcing /usr/share/vim/vim73/plugin/gzip.vim
+191.486  000.217  000.217: sourcing /usr/share/vim/vim73/plugin/matchparen.vim
+192.145  000.626  000.626: sourcing /usr/share/vim/vim73/plugin/netrwPlugin.vim
+192.241  000.054  000.054: sourcing /usr/share/vim/vim73/plugin/rrhelper.vim
+192.305  000.037  000.037: sourcing /usr/share/vim/vim73/plugin/spellfile.vim
+192.535  000.202  000.202: sourcing /usr/share/vim/vim73/plugin/tarPlugin.vim
+192.667  000.098  000.098: sourcing /usr/share/vim/vim73/plugin/tohtml.vim
+192.906  000.210  000.210: sourcing /usr/share/vim/vim73/plugin/vimballPlugin.vim
+193.109  000.169  000.169: sourcing /usr/share/vim/vim73/plugin/zipPlugin.vim
+193.154  001.475: loading plugins
+193.163  000.009: inits 3
+196.143  001.188  001.188: sourcing $VIMRUNTIME/menu.vim
+196.440  000.237  000.237: sourcing $VIM/gvimrc
+2138.516  1944.928: starting GUI
+2138.873  000.357: reading viminfo
+2139.798  000.925: GUI delay
+2157.369  017.571: register server name
+2157.378  000.009: setting raw mode
+2157.380  000.002: start termcap
+2157.521  000.141: clearing screen
+2157.721  000.200: opening buffers
+2157.957  000.236: BufEnter autocommands
+2157.961  000.004: editing files in windows
+2160.804  002.843: VimEnter autocommands
+2160.810  000.006: before starting main loop
+2171.061  010.251: first screen update
+2171.074  000.013: --- VIM STARTED ---
